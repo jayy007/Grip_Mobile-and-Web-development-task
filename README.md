@@ -2,9 +2,7 @@
 
 TASK_3
 
-Payment Gateway 
-
-Integration
+Payment Gateway Integration
 
 ◇ Create a simple website where payment gateway is integrated.
 
