@@ -1,4 +1,4 @@
-# Grip_Mobile and Web-development task
+# Grip_Web-development task
 
 TASK_3
 
